@@ -108,6 +108,11 @@
 			"domain_files": ["teso.txt"]
 		},
 		{
+			"name": "thinkbroadband",
+			"description": "CDN for The thinkbroadband",
+			"domain_files": ["thinkbroadband.txt"]
+		},
+		{
 			"name": "twitch",
 			"description": "CDN for twitch games / mods and addons",
 			"domain_files": ["twitch.txt"]
