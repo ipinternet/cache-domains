@@ -1,2 +1,4 @@
+download.thinkbroadband.com
 *.download.thinkbroadband.com
-*.all.huodonghylivecdn.sched.ovscdns.net
+*.huodonghylivecdn.sched.ovscdns.net
+all.huodonghylivecdn.sched.ovscdns.net
