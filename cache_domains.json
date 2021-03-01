@@ -16,6 +16,11 @@
 			"domain_files": ["bsg.txt"]
 		},
 		{
+			"name": "cdn",
+			"description": "CDN Testing for IP Internet",
+			"domain_files": ["cdn.txt"]
+		},
+		{
 			"name": "cityofheroes",
 			"description": "CDN for City of Heroes (Homecoming)",
 			"domain_files": ["cityofheroes.txt"]
@@ -106,11 +111,6 @@
 			"name": "teso",
 			"description": "CDN for The Elder Scrolls Online",
 			"domain_files": ["teso.txt"]
-		},
-		{
-			"name": "thinkbroadband",
-			"description": "CDN for The thinkbroadband",
-			"domain_files": ["thinkbroadband.txt"]
 		},
 		{
 			"name": "twitch",
