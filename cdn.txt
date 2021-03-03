@@ -1,4 +1,8 @@
 archive.ubuntu.com
+*.archive.ubuntu.com
 mirror.dhakacom.com
+*.mirror.dhakacom.com
 mirror.amberit.com.bd
+*.mirror.amberit.com.bd
 mirror.xeonbd.com
+*.mirror.xeonbd.com
