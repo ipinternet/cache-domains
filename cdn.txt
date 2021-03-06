@@ -1,3 +1,5 @@
-*.ubuntu.com
-*.dhakacom.com
-*.amberit.com.bd
+archive.ubuntu.com
+mirror.dhakacom.com
+mirror.amberit.com.bd
+mirror.xeonbd.com
+ipv4.download.thinkbroadband.com
