@@ -1,4 +1,3 @@
 *.ubuntu.com
 *.dhakacom.com
 *.amberit.com.bd
-*.xeonbd.com
